@@ -2,7 +2,7 @@
 
 ## Laboratórios
 
-|            | Descrição                                                          |  Funcionam                       |
+|            | Descrição                                                          |  Funcionam?                      |
 |------------|:------------------------------------------------------------------ | :------------------------------- |
 | atividades | Implementação de algumas estruturas de dados em C++                | Sim                              |
 | provas     | Prova 1 e 2. Não salvei o enunciado e nem lembro o que era exigido | Sim                              |
