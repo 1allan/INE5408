@@ -1,7 +1,5 @@
 # INE5408 - Estruturas de Dados
 
-## Laboratórios
-
 |            | Descrição                                                          |  Funcionam?                      |
 |------------|:------------------------------------------------------------------ | :------------------------------- |
 | atividades | Implementação de algumas estruturas de dados em C++                | Sim                              |
